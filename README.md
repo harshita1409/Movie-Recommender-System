@@ -67,7 +67,10 @@ Get your API, by following the below steps:
   pip install -r requirements.txt
 ```
 - Get your API key from https://www.themoviedb.org/ by logging into your account.
-- Replace the api key = ' ' in line no. 7 of  ```app.py``` file and save it.
+- Replace the selected part with your api key in line no. 7 of  ```app.py``` file and save it.
+
+  ![Papi](https://user-images.githubusercontent.com/77922607/170894218-04c1ec28-008f-4321-bf6d-07e79390d136.png)
+
 - Open your terminal/command prompt from your project directory and run the below mentioned command.
 ```bash
   streamlit run app.py
