@@ -74,6 +74,7 @@ Get your API, by following the below steps:
   streamlit run app.py
 ```
 - It automatically open the streamlit app on your default browser, or you can also view it through the Local URL link which is there your terminal/cmd prompt.
+- ![P2](https://user-images.githubusercontent.com/77922607/170894077-6dfb9a04-f6f3-4cad-95ce-51d13047f37f.png)
 - 
 - Yeah! Finally you are done.
 - Now you can easily get the Top 5 most similar movies according to your search, by clicking on the reocmmend button.
