@@ -76,5 +76,3 @@ Get your API, by following the below steps:
 - Yeah! Finally you are done.
 - Now you can easily get the Top 5 most similar movies according to your search, by clicking on the reocmmend button.
 - That's it!
-#### Note
-Follow the "Getting Started" section, incase if you see application error in the above mentioned URL.
