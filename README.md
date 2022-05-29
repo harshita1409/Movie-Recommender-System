@@ -74,6 +74,7 @@ Get your API, by following the below steps:
 
 ## How To Run The project
 - Clone or download this Repository to your local machine.
+- Download the [TMDB credits dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv) as well.
 - Install all the Libraries mentioned in the requirement.txt file, by running the following command
 ```bash
   pip install -r requirements.txt
@@ -100,3 +101,10 @@ Get your API, by following the below steps:
  ![P3](https://user-images.githubusercontent.com/77922607/170894100-8b2c86ec-d4b8-4f08-a62c-ae13735eb4dc.png)
 
 - That's it!
+
+
+## Sources To Dataset
+
+### TMDB Dataset
+- [TMDB-5000-credits-csv_file](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv)
+- [TMDB-5000-movies-csv_file](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
