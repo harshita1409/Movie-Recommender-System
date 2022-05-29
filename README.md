@@ -53,7 +53,7 @@ Get your API, by following the below steps:
 - Click on the ```API``` link from the left hand sidebar in your account settings and fill the details to apply for API key.
 - If you are asked for the website URL, just give 'NA' if you do not have one.
 - You will see the API key in your ```API``` sidebar once your request is approved.
-- Download the similarity.pkl from this [drive link](https://drive.google.com/file/d/1FC3fxLN-6P9ehHpIsKtjZ02k0pQySL6p/view?usp=sharing)
+- Download the ```similarity.pkl``` file from this [drive link](https://drive.google.com/file/d/1FC3fxLN-6P9ehHpIsKtjZ02k0pQySL6p/view?usp=sharing)
 
 
 #### Note
