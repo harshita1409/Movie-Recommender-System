@@ -69,10 +69,12 @@ Get your API, by following the below steps:
 - Get your API key from https://www.themoviedb.org/ by logging into your account.
 - Replace the api key = ' ' in line no. 7 of  ```app.py``` file and save it.
 - Open your terminal/command prompt from your project directory and run the below mentioned command.
+- ![P1](https://user-images.githubusercontent.com/77922607/170894012-083defb1-e084-41f5-aef5-dfd9b27421c0.png)
 ```bash
   streamlit run app.py
 ```
 - It automatically open the streamlit app on your default browser, or you can also view it through the Local URL link which is there your terminal/cmd prompt.
+- 
 - Yeah! Finally you are done.
 - Now you can easily get the Top 5 most similar movies according to your search, by clicking on the reocmmend button.
 - That's it!
