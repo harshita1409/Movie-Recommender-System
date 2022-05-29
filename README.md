@@ -1,3 +1,4 @@
+
 # Content-Based-Movie-Recommmeder-System
 [Link to the App](https://mrs-hg.herokuapp.com/) | [Video Demo](https://youtu.be/CApfJiCorLM)
 
@@ -42,6 +43,9 @@ Follow the "Getting Started" section, incase if you see application error in the
 ## Getting Started
 To install and run the project on your local system, following are the requirements:
 
+
+
+
 ### Prerequisites
 Get your API, by following the below steps:
 
@@ -49,6 +53,13 @@ Get your API, by following the below steps:
 - Click on the ```API``` link from the left hand sidebar in your account settings and fill the details to apply for API key.
 - If you are asked for the website URL, just give 'NA' if you do not have one.
 - You will see the API key in your ```API``` sidebar once your request is approved.
+- Download the similarity.pkl from this [drive link](https://drive.google.com/file/d/1FC3fxLN-6P9ehHpIsKtjZ02k0pQySL6p/view?usp=sharing)
+
+
+#### Note
+```similarity.pkl``` file is too large, around 176MB. Github is not supporting files larger than 100MB, that's why I have uploaded it on [Google Drive](https://drive.google.com/file/d/1FC3fxLN-6P9ehHpIsKtjZ02k0pQySL6p/view?usp=sharing), so you can download it from there beacuse you'll be needing it while running the project.
+
+
 ## How To Run The project
 - Clone or download this Repository to your local machine.
 - Install all the Libraries mentioned in the requirement.txt file, by running the following command
@@ -65,3 +76,5 @@ Get your API, by following the below steps:
 - Yeah! Finally you are done.
 - Now you can easily get the Top 5 most similar movies according to your search, by clicking on the reocmmend button.
 - That's it!
+#### Note
+Follow the "Getting Started" section, incase if you see application error in the above mentioned URL.
